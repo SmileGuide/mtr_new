@@ -1,0 +1,761 @@
+Timestamp,Player Name,Player UUID,Class,ID,Name,Position,Change,Old Data,New Data
+"2023-08-27T19:17:04.709+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.data.LiftServer","[7707469893299537530]","","","EDIT","{
+  ""lift_height"": 4,
+  ""lift_width"": 2,
+  ""lift_depth"": 2,
+  ""lift_offset_x"": 0,
+  ""lift_offset_z"": 0
+}","{
+  ""lift_height"": 5,
+  ""lift_width"": 3,
+  ""lift_depth"": 3,
+  ""lift_offset_x"": 2,
+  ""lift_offset_z"": -1
+}"
+"2023-08-27T19:17:24.333+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.data.LiftServer","[7707469893299537530]","","","EDIT","{
+  ""lift_width"": 2,
+  ""lift_depth"": 2,
+  ""lift_offset_x"": 0,
+  ""lift_offset_z"": 0
+}","{
+  ""lift_width"": 3,
+  ""lift_depth"": 3,
+  ""lift_offset_x"": 3,
+  ""lift_offset_z"": -1
+}"
+"2023-08-27T19:18:45.489+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.data.LiftServer","[7707469893299537530]","","","EDIT","{
+  ""lift_width"": 2,
+  ""lift_depth"": 2,
+  ""lift_offset_x"": 0,
+  ""lift_offset_z"": 0
+}","{
+  ""lift_width"": 3,
+  ""lift_depth"": 3,
+  ""lift_offset_x"": 3,
+  ""lift_offset_z"": -1
+}"
+"2023-08-27T19:24:22.198+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockLiftTrackFloor$TileEntityLiftTrackFloor","","","(-121, 6, 53)","EDIT","{
+  ""floor_description"": """",
+  ""floor_number"": 1,
+  ""should_ding"": false
+}","{
+  ""floor_description"": ""售票处"",
+  ""floor_number"": """",
+  ""should_ding"": true
+}"
+"2023-08-27T19:24:56.394+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.data.LiftServer","[7707469893299537530]","","","EDIT","{
+  ""lift_width"": 2,
+  ""lift_depth"": 2,
+  ""lift_offset_x"": 0,
+  ""lift_offset_z"": 0
+}","{
+  ""lift_width"": 3,
+  ""lift_depth"": 3,
+  ""lift_offset_x"": 3,
+  ""lift_offset_z"": -1
+}"
+"2023-08-27T19:25:15.694+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.data.LiftServer","[7707469893299537530]","","","EDIT","{
+  ""lift_width"": 2,
+  ""lift_depth"": 2,
+  ""lift_offset_x"": 0
+}","{
+  ""lift_width"": 3,
+  ""lift_depth"": 3,
+  ""lift_offset_x"": 3
+}"
+"2023-08-27T19:25:23.165+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.data.LiftServer","[7707469893299537530]","","","EDIT","{
+  ""lift_width"": 2,
+  ""lift_depth"": 2,
+  ""lift_offset_x"": 0,
+  ""lift_offset_z"": 0
+}","{
+  ""lift_width"": 3,
+  ""lift_depth"": 3,
+  ""lift_offset_x"": 3,
+  ""lift_offset_z"": -2
+}"
+"2023-08-27T19:25:36.345+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.data.LiftServer","[7707469893299537530]","","","EDIT","{
+  ""lift_width"": 2,
+  ""lift_depth"": 2,
+  ""lift_offset_x"": 0,
+  ""lift_offset_z"": 0
+}","{
+  ""lift_width"": 3,
+  ""lift_depth"": 3,
+  ""lift_offset_x"": 3,
+  ""lift_offset_z"": -1
+}"
+"2023-08-27T19:25:41.178+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.data.LiftServer","[7707469893299537530]","","","EDIT","{
+  ""lift_width"": 2,
+  ""lift_depth"": 2,
+  ""lift_offset_x"": 0
+}","{
+  ""lift_width"": 3,
+  ""lift_depth"": 3,
+  ""lift_offset_x"": 3
+}"
+"2023-08-27T19:28:08.414+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.data.LiftServer","[7707469893299537530]","","","EDIT","{
+  ""lift_width"": 2,
+  ""lift_depth"": 2,
+  ""lift_offset_x"": 0
+}","{
+  ""lift_width"": 3,
+  ""lift_depth"": 3,
+  ""lift_offset_x"": 2
+}"
+"2023-08-27T19:28:51.417+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.data.LiftServer","[7707469893299537530]","","","EDIT","{
+  ""lift_width"": 2,
+  ""lift_depth"": 2,
+  ""lift_offset_x"": 0,
+  ""lift_offset_z"": 0
+}","{
+  ""lift_width"": 3,
+  ""lift_depth"": 3,
+  ""lift_offset_x"": 3,
+  ""lift_offset_z"": -2
+}"
+"2023-08-27T19:32:26.773+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.data.LiftServer","[-5798962637290577802]","","","EDIT","{
+  ""lift_height"": 4,
+  ""lift_width"": 2,
+  ""lift_depth"": 2
+}","{
+  ""lift_height"": 5,
+  ""lift_width"": 3,
+  ""lift_depth"": 3
+}"
+"2023-08-27T19:32:43.236+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.data.LiftServer","[-5798962637290577802]","","","EDIT","{
+  ""lift_width"": 2,
+  ""lift_depth"": 2,
+  ""lift_offset_x"": 0,
+  ""lift_offset_z"": 0
+}","{
+  ""lift_width"": 3,
+  ""lift_depth"": 3,
+  ""lift_offset_x"": 3,
+  ""lift_offset_z"": -1
+}"
+"2023-08-27T19:33:16.566+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.data.LiftServer","[-5798962637290577802]","","","EDIT","{
+  ""lift_width"": 2,
+  ""lift_depth"": 2,
+  ""lift_offset_x"": 0,
+  ""lift_offset_z"": 0
+}","{
+  ""lift_width"": 3,
+  ""lift_depth"": 3,
+  ""lift_offset_x"": 3,
+  ""lift_offset_z"": -1
+}"
+"2023-08-27T19:38:17.086+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.data.LiftServer","[6939731580337396617]","","","EDIT","{
+  ""lift_height"": 4,
+  ""lift_width"": 2,
+  ""lift_depth"": 2,
+  ""lift_offset_x"": 0,
+  ""lift_offset_z"": 0
+}","{
+  ""lift_height"": 5,
+  ""lift_width"": 3,
+  ""lift_depth"": 3,
+  ""lift_offset_x"": 3,
+  ""lift_offset_z"": -1
+}"
+"2023-08-27T19:39:32.161+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.data.LiftServer","[6939731580337396617]","","","EDIT","{
+  ""lift_width"": 2,
+  ""lift_depth"": 2,
+  ""lift_offset_x"": 0,
+  ""lift_offset_z"": 0,
+  ""is_double_sided"": false
+}","{
+  ""lift_width"": 3,
+  ""lift_depth"": 3,
+  ""lift_offset_x"": 3,
+  ""lift_offset_z"": -1,
+  ""is_double_sided"": true
+}"
+"2023-08-27T19:55:28.146+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockLiftTrackFloor$TileEntityLiftTrackFloor","","","(-121, 0, 52)","EDIT","{
+  ""floor_description"": """",
+  ""floor_number"": 1,
+  ""should_ding"": false
+}","{
+  ""floor_description"": ""A2出站口"",
+  ""floor_number"": ""B1"",
+  ""should_ding"": true
+}"
+"2023-08-27T19:56:16.698+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockLiftTrackFloor$TileEntityLiftTrackFloor","","","(-121, 6, 52)","EDIT","{
+  ""floor_description"": """",
+  ""should_ding"": false
+}","{
+  ""floor_description"": ""售票处"",
+  ""should_ding"": true
+}"
+"2023-08-27T20:17:04.787+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-108, 5, 74)","EDIT","{
+  ""selected_ids"": [],
+  ""sign_length2"": """",
+  ""sign_length1"": """",
+  ""sign_length0"": """"
+}","{
+  ""selected_ids"": [
+    1725480790393017770
+  ],
+  ""sign_length2"": ""STATION"",
+  ""sign_length1"": ""ESCALATOR_TO_CONCOURSE_DOWN"",
+  ""sign_length0"": ""ESCALATOR_TO_CONCOURSE_DOWN""
+}"
+"2023-08-27T20:19:19.451+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-117, 8, 68)","EDIT","{
+  ""selected_ids"": [],
+  ""sign_length0"": """"
+}","{
+  ""selected_ids"": [
+    1725480790393017770
+  ],
+  ""sign_length0"": ""STATION""
+}"
+"2023-08-27T20:19:49.696+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-117, 9, 68)","EDIT","{
+  ""selected_ids"": [],
+  ""sign_length0"": """"
+}","{
+  ""selected_ids"": [
+    8339551109745812552
+  ],
+  ""sign_length0"": ""PLATFORM""
+}"
+"2023-08-27T20:19:56.641+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-117, 9, 68)","EDIT","{
+  ""selected_ids"": [
+    8339551109745812552
+  ],
+  ""sign_length0"": ""PLATFORM""
+}","{
+  ""selected_ids"": [
+    8339551109745812552,
+    1725480790393017770
+  ],
+  ""sign_length0"": ""STATION""
+}"
+"2023-08-27T20:22:32.154+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-114, 10, 47)","EDIT","{
+  ""sign_length0"": """"
+}","{
+  ""sign_length0"": ""LINE""
+}"
+"2023-08-27T20:23:15.286+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-114, 10, 47)","EDIT","{
+  ""sign_length0"": ""LINE""
+}","{
+  ""sign_length0"": ""TRAINS""
+}"
+"2023-08-27T20:23:29.451+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-114, 10, 47)","EDIT","{
+  ""sign_length0"": ""TRAINS""
+}","{
+  ""sign_length0"": ""STATION_FLIPPED""
+}"
+"2023-08-27T20:23:44.566+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.data.Station","[1725480790393017770]","卡尔广场 Karl Square","","EDIT","{
+  ""x_min"": -131,
+  ""z_min"": 48,
+  ""x_max"": -82,
+  ""z_max"": 85
+}","{
+  ""x_min"": -78,
+  ""z_min"": 88,
+  ""x_max"": -140,
+  ""z_max"": 31
+}"
+"2023-08-27T20:23:59.361+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-114, 10, 47)","EDIT","{
+  ""selected_ids"": [],
+  ""sign_length0"": ""STATION_FLIPPED""
+}","{
+  ""selected_ids"": [
+    14773055
+  ],
+  ""sign_length0"": ""LINE""
+}"
+"2023-08-27T20:24:14.233+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.data.Route","[-8139665227481562803]","1号线 Line1  上行","","EDIT","{
+  ""name"": ""1号线|Line1|上行""
+}","{
+  ""name"": ""1号线|Line1||上行""
+}"
+"2023-08-27T20:24:20.855+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.data.Route","[-1230434776286643996]","1号线 Line 1  下行","","EDIT","{
+  ""name"": ""1号线|Line 1|下行""
+}","{
+  ""name"": ""1号线|Line 1||下行""
+}"
+"2023-08-27T20:26:23.441+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-114, 10, 47)","EDIT","{
+  ""selected_ids"": [
+    14773055
+  ],
+  ""sign_length4"": """",
+  ""sign_length2"": """",
+  ""sign_length1"": """",
+  ""sign_length0"": ""LINE""
+}","{
+  ""selected_ids"": [
+    1725480790393017770,
+    14773055
+  ],
+  ""sign_length4"": ""ARROW_DOWN"",
+  ""sign_length2"": ""EXIT_LETTER"",
+  ""sign_length1"": ""LINE"",
+  ""sign_length0"": ""LOGO""
+}"
+"2023-08-27T20:26:54.592+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.data.Station","[1725480790393017770]","卡尔广场 Karl Square","","EDIT","{
+  ""zone"": 0
+}","{
+  ""zone"": 1
+}"
+"2023-08-27T20:37:33.649+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-110, 10, 47)","EDIT","{
+  ""sign_length3"": """",
+  ""sign_length2"": """",
+  ""sign_length1"": """",
+  ""sign_length0"": """"
+}","{
+  ""sign_length3"": ""CROSS"",
+  ""sign_length2"": ""CROSS"",
+  ""sign_length1"": ""CROSS"",
+  ""sign_length0"": ""CROSS""
+}"
+"2023-08-27T20:38:13.829+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-110, 10, 47)","EDIT","{
+  ""sign_length0"": """"
+}","{
+  ""sign_length0"": ""CROSS""
+}"
+"2023-08-27T20:38:51.813+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-110, 10, 47)","EDIT","{
+  ""sign_length1"": """"
+}","{
+  ""sign_length1"": ""CROSS""
+}"
+"2023-08-27T20:39:07.682+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-112, 10, 47)","EDIT","{
+  ""sign_length1"": """"
+}","{
+  ""sign_length1"": ""CROSS""
+}"
+"2023-08-27T20:39:51.618+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-114, 10, 47)","EDIT","{
+  ""sign_length1"": """"
+}","{
+  ""sign_length1"": ""ARROW_UP""
+}"
+"2023-08-27T20:39:56.080+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-116, 10, 47)","EDIT","{
+  ""sign_length1"": """"
+}","{
+  ""sign_length1"": ""ARROW_UP""
+}"
+"2023-08-27T20:42:43.834+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-112, 11, 46)","EDIT","{
+  ""selected_ids"": [],
+  ""sign_length6"": """",
+  ""sign_length2"": """",
+  ""sign_length0"": """"
+}","{
+  ""selected_ids"": [
+    1725480790393017770,
+    14773055
+  ],
+  ""sign_length6"": ""TRAIN"",
+  ""sign_length2"": ""STATION"",
+  ""sign_length0"": ""LOGO""
+}"
+"2023-08-27T20:43:02.693+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-112, 11, 46)","EDIT","{
+  ""sign_length2"": ""STATION"",
+  ""sign_length1"": """",
+  ""sign_length0"": ""LOGO""
+}","{
+  ""sign_length2"": """",
+  ""sign_length1"": ""STATION"",
+  ""sign_length0"": """"
+}"
+"2023-08-27T20:43:24.844+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-112, 11, 46)","EDIT","{
+  ""sign_length2"": """",
+  ""sign_length1"": ""STATION""
+}","{
+  ""sign_length2"": ""STATION"",
+  ""sign_length1"": ""LINE""
+}"
+"2023-08-27T20:43:38.162+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-112, 11, 46)","EDIT","{
+  ""sign_length6"": ""TRAIN""
+}","{
+  ""sign_length6"": """"
+}"
+"2023-08-27T20:46:25.640+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-123, 3, 50)","EDIT","{
+  ""selected_ids"": [],
+  ""sign_length4"": """",
+  ""sign_length1"": """",
+  ""sign_length0"": """"
+}","{
+  ""selected_ids"": [
+    1725480790393017770,
+    14773055
+  ],
+  ""sign_length4"": ""LIFT_1"",
+  ""sign_length1"": ""STATION"",
+  ""sign_length0"": ""LINE""
+}"
+"2023-08-27T20:46:42.442+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-123, 3, 50)","EDIT","{
+  ""sign_length4"": ""LIFT_1"",
+  ""sign_length3"": """"
+}","{
+  ""sign_length4"": ""WHEELCHAIR"",
+  ""sign_length3"": ""LIFT_1""
+}"
+"2023-08-27T20:46:52.816+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-123, 3, 50)","EDIT","{
+  ""sign_length1"": ""STATION""
+}","{
+  ""sign_length1"": ""STATION_FLIPPED""
+}"
+"2023-08-27T20:47:02.289+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-123, 3, 50)","EDIT","{
+  ""sign_length2"": """",
+  ""sign_length1"": ""STATION_FLIPPED""
+}","{
+  ""sign_length2"": ""STATION_FLIPPED"",
+  ""sign_length1"": """"
+}"
+"2023-08-27T20:47:27.218+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-123, 3, 50)","EDIT","{
+  ""sign_length4"": ""WHEELCHAIR"",
+  ""sign_length3"": ""LIFT_1"",
+  ""sign_length2"": ""STATION_FLIPPED"",
+  ""sign_length1"": """"
+}","{
+  ""sign_length4"": ""LIFT_1"",
+  ""sign_length3"": """",
+  ""sign_length2"": """",
+  ""sign_length1"": ""STATION""
+}"
+"2023-08-27T20:48:55.112+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockLiftTrackFloor$TileEntityLiftTrackFloor","","","(-121, 0, 52)","EDIT","{
+  ""floor_description"": ""A2出站口""
+}","{
+  ""floor_description"": ""出站口""
+}"
+"2023-08-27T20:49:40.502+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-117, 9, 52)","EDIT","{
+  ""sign_length3"": """",
+  ""sign_length1"": """"
+}","{
+  ""sign_length3"": ""EXIT_1"",
+  ""sign_length1"": ""LIFT_1_TEXT""
+}"
+"2023-08-27T20:50:03.080+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-117, 9, 52)","EDIT","{
+  ""sign_length1"": ""LIFT_1_TEXT"",
+  ""sign_length0"": """"
+}","{
+  ""sign_length1"": """",
+  ""sign_length0"": ""LIFT_1_TEXT""
+}"
+"2023-08-27T20:50:26.515+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-117, 9, 52)","EDIT","{
+  ""sign_length4"": """",
+  ""sign_length3"": ""EXIT_1"",
+  ""sign_length0"": ""LIFT_1_TEXT""
+}","{
+  ""sign_length4"": ""LIFT_1_TEXT_FLIPPED"",
+  ""sign_length3"": """",
+  ""sign_length0"": ""EXIT_1""
+}"
+"2023-08-27T20:50:52.322+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-117, 9, 52)","EDIT","{
+  ""sign_length1"": """",
+  ""sign_length0"": ""EXIT_1""
+}","{
+  ""sign_length1"": ""EXIT_1"",
+  ""sign_length0"": """"
+}"
+"2023-08-27T20:51:30.741+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-117, 9, 52)","EDIT","{
+  ""sign_length4"": ""LIFT_1_TEXT_FLIPPED"",
+  ""sign_length3"": """",
+  ""sign_length1"": ""EXIT_1"",
+  ""sign_length0"": """"
+}","{
+  ""sign_length4"": ""WHEELCHAIR"",
+  ""sign_length3"": ""EXIT_1"",
+  ""sign_length1"": """",
+  ""sign_length0"": ""LIFT_1_TEXT""
+}"
+"2023-08-27T20:51:38.736+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-117, 9, 52)","EDIT","{
+  ""sign_length4"": ""WHEELCHAIR"",
+  ""sign_length3"": ""EXIT_1""
+}","{
+  ""sign_length4"": ""EXIT_1"",
+  ""sign_length3"": ""WHEELCHAIR""
+}"
+"2023-08-27T20:51:47.361+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-117, 9, 52)","EDIT","{
+  ""sign_length4"": ""EXIT_1"",
+  ""sign_length2"": """"
+}","{
+  ""sign_length4"": """",
+  ""sign_length2"": ""EXIT_1""
+}"
+"2023-08-27T20:52:04.264+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-117, 9, 52)","EDIT","{
+  ""sign_length4"": """"
+}","{
+  ""sign_length4"": ""ARROW_UP""
+}"
+"2023-08-27T20:52:41.549+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-117, 9, 52)","EDIT","{
+  ""sign_length4"": ""ARROW_UP"",
+  ""sign_length3"": ""WHEELCHAIR"",
+  ""sign_length2"": ""EXIT_1"",
+  ""sign_length1"": """",
+  ""sign_length0"": ""LIFT_1_TEXT""
+}","{
+  ""sign_length4"": """",
+  ""sign_length3"": """",
+  ""sign_length2"": ""LIFT_1_TEXT"",
+  ""sign_length1"": ""WHEELCHAIR"",
+  ""sign_length0"": """"
+}"
+"2023-08-27T20:53:34.922+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-117, 9, 48)","EDIT","{
+  ""sign_length4"": """",
+  ""sign_length1"": """"
+}","{
+  ""sign_length4"": ""CROSS"",
+  ""sign_length1"": ""CROSS""
+}"
+"2023-08-27T20:53:50.906+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-113, 9, 48)","EDIT","{
+  ""sign_length4"": """",
+  ""sign_length1"": """"
+}","{
+  ""sign_length4"": ""EXIT_1"",
+  ""sign_length1"": ""EXIT_1""
+}"
+"2023-08-27T20:54:16.951+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-113, 9, 48)","EDIT","{
+  ""sign_length5"": """",
+  ""sign_length3"": """",
+  ""sign_length1"": """"
+}","{
+  ""sign_length5"": ""ARROW_UP"",
+  ""sign_length3"": ""EXIT_1"",
+  ""sign_length1"": ""ARROW_UP""
+}"
+"2023-08-27T20:55:08.466+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-108, 9, 49)","EDIT","{
+  ""sign_length1"": """"
+}","{
+  ""sign_length1"": ""NO_ENTRY""
+}"
+"2023-08-27T20:56:05.547+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-108, 9, 49)","EDIT","{
+  ""sign_length2"": """",
+  ""sign_length1"": """",
+  ""sign_length0"": """"
+}","{
+  ""sign_length2"": ""CROSS"",
+  ""sign_length1"": ""CROSS"",
+  ""sign_length0"": ""CROSS""
+}"
+"2023-08-27T20:56:57.157+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-110, 9, 48)","EDIT","{
+  ""selected_ids"": [],
+  ""sign_length2"": """"
+}","{
+  ""selected_ids"": [
+    1725480790393017770
+  ],
+  ""sign_length2"": ""STATION""
+}"
+"2023-08-27T20:57:07.957+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-110, 9, 48)","EDIT","{
+  ""sign_length2"": ""STATION"",
+  ""sign_length1"": """"
+}","{
+  ""sign_length2"": """",
+  ""sign_length1"": ""STATION""
+}"
+"2023-08-27T20:57:19.300+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-110, 9, 48)","EDIT","{
+  ""sign_length5"": """"
+}","{
+  ""sign_length5"": ""CROSS""
+}"
+"2023-08-27T20:57:43.259+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-114, 9, 48)","EDIT","{
+  ""selected_ids"": [],
+  ""sign_length4"": """",
+  ""sign_length1"": """"
+}","{
+  ""selected_ids"": [
+    1725480790393017770
+  ],
+  ""sign_length4"": ""TRAIN"",
+  ""sign_length1"": ""STATION""
+}"
+"2023-08-27T20:57:49.038+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-110, 9, 48)","EDIT","{
+  ""sign_length5"": ""CROSS""
+}","{
+  ""sign_length5"": ""TRAIN""
+}"
+"2023-08-27T20:58:30.204+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-108, 9, 49)","EDIT","{
+  ""sign_length1"": """"
+}","{
+  ""sign_length1"": ""NO_ENTRY""
+}"
+"2023-08-27T20:59:42.667+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-108, 9, 53)","EDIT","{
+  ""sign_length2"": """"
+}","{
+  ""sign_length2"": ""ARROW_UP""
+}"
+"2023-08-27T21:00:05.229+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-108, 9, 55)","EDIT","{
+  ""sign_length2"": """"
+}","{
+  ""sign_length2"": ""CROSS""
+}"
+"2023-08-27T21:00:12.983+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-108, 9, 51)","EDIT","{
+  ""sign_length2"": """"
+}","{
+  ""sign_length2"": ""ARROW_UP""
+}"
+"2023-08-27T21:00:56.461+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-113, 9, 55)","EDIT","{
+  ""sign_length2"": """"
+}","{
+  ""sign_length2"": ""TICKETS""
+}"
+"2023-08-27T21:01:19.830+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-113, 9, 55)","EDIT","{
+  ""sign_length2"": """"
+}","{
+  ""sign_length2"": ""TICKETS""
+}"
+"2023-08-27T21:02:00.841+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-117, 9, 55)","EDIT","{
+  ""selected_ids"": [],
+  ""sign_length2"": """"
+}","{
+  ""selected_ids"": [
+    8339551109745812552
+  ],
+  ""sign_length2"": ""PLATFORM""
+}"
+"2023-08-27T21:04:19.780+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-117, 9, 55)","EDIT","{
+  ""selected_ids"": [
+    8339551109745812552
+  ],
+  ""sign_length3"": """",
+  ""sign_length2"": ""PLATFORM""
+}","{
+  ""selected_ids"": [],
+  ""sign_length3"": ""ARROW_RIGHT"",
+  ""sign_length2"": ""ESCALATOR""
+}"
+"2023-08-27T21:04:34.441+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-117, 9, 55)","EDIT","{
+  ""sign_length3"": ""ARROW_RIGHT"",
+  ""sign_length2"": ""ESCALATOR"",
+  ""sign_length1"": """"
+}","{
+  ""sign_length3"": ""ARROW_DOWN_RIGHT"",
+  ""sign_length2"": """",
+  ""sign_length1"": ""ESCALATOR""
+}"
+"2023-08-27T21:04:43.695+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-117, 9, 55)","EDIT","{
+  ""sign_length4"": """",
+  ""sign_length3"": ""ARROW_DOWN_RIGHT""
+}","{
+  ""sign_length4"": ""ARROW_DOWN_RIGHT"",
+  ""sign_length3"": """"
+}"
+"2023-08-27T21:05:58.464+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-115, 9, 79)","EDIT","{
+  ""sign_length3"": """",
+  ""sign_length1"": """"
+}","{
+  ""sign_length3"": ""ESCALATOR_FLIPPED"",
+  ""sign_length1"": ""ARROW_DOWN_LEFT""
+}"
+"2023-08-27T21:06:16.731+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-115, 9, 79)","EDIT","{
+  ""sign_length2"": """"
+}","{
+  ""sign_length2"": ""PLATFORM""
+}"
+"2023-08-27T21:09:12.789+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-108, 5, 56)","EDIT","{
+  ""selected_ids"": [],
+  ""sign_length2"": """"
+}","{
+  ""selected_ids"": [
+    8339551109745812552
+  ],
+  ""sign_length2"": ""PLATFORM""
+}"
+"2023-08-27T21:13:41.031+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-108, 5, 56)","EDIT","{
+  ""sign_length3"": """",
+  ""sign_length2"": ""PLATFORM""
+}","{
+  ""sign_length3"": ""PLATFORM"",
+  ""sign_length2"": """"
+}"
+"2023-08-27T21:16:13.329+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-102, 4, 75)","EDIT","{
+  ""sign_length3"": """",
+  ""sign_length1"": """"
+}","{
+  ""sign_length3"": ""WHEELCHAIR"",
+  ""sign_length1"": ""LIFT_1_TEXT""
+}"
+"2023-08-27T21:17:06.363+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-107, 4, 76)","EDIT","{
+  ""sign_length2"": """"
+}","{
+  ""sign_length2"": ""ESCALATOR_TO_CONCOURSE_UP""
+}"
+"2023-08-27T21:17:15.679+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-107, 4, 76)","EDIT","{
+  ""sign_length2"": ""ESCALATOR_TO_CONCOURSE_UP"",
+  ""sign_length1"": """"
+}","{
+  ""sign_length2"": """",
+  ""sign_length1"": ""ESCALATOR_TO_CONCOURSE_UP""
+}"
+"2023-08-27T21:17:30.764+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-107, 4, 76)","EDIT","{
+  ""sign_length2"": """",
+  ""sign_length1"": ""ESCALATOR_TO_CONCOURSE_UP""
+}","{
+  ""sign_length2"": ""ESCALATOR_TO_CONCOURSE_UP"",
+  ""sign_length1"": ""ARROW_UP_LEFT""
+}"
+"2023-08-27T21:17:45.510+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-107, 4, 76)","EDIT","{
+  ""sign_length2"": ""ESCALATOR_TO_CONCOURSE_UP"",
+  ""sign_length1"": ""ARROW_UP_LEFT"",
+  ""sign_length0"": """"
+}","{
+  ""sign_length2"": """",
+  ""sign_length1"": ""ESCALATOR_TO_CONCOURSE_UP"",
+  ""sign_length0"": ""ARROW_UP_LEFT""
+}"
+"2023-08-27T21:19:21.496+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-105, 4, 76)","EDIT","{
+  ""sign_length4"": """",
+  ""sign_length3"": """"
+}","{
+  ""sign_length4"": ""ARROW_UP_RIGHT"",
+  ""sign_length3"": ""ESCALATOR_TO_CONCOURSE_UP_FLIPPED""
+}"
+"2023-08-27T21:20:24.397+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-105, 4, 75)","EDIT","{
+  ""sign_length4"": """",
+  ""sign_length3"": """"
+}","{
+  ""sign_length4"": ""ARROW_UP_RIGHT"",
+  ""sign_length3"": ""ESCALATOR_TO_CONCOURSE_UP_FLIPPED""
+}"
+"2023-08-27T21:20:41.369+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-107, 4, 75)","EDIT","{
+  ""sign_length1"": """",
+  ""sign_length0"": """"
+}","{
+  ""sign_length1"": ""ESCALATOR_TO_CONCOURSE_UP"",
+  ""sign_length0"": ""ARROW_UP_LEFT""
+}"
+"2023-08-27T21:21:34.642+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-116, 4, 74)","EDIT","{
+  ""selected_ids"": [],
+  ""sign_length4"": """",
+  ""sign_length3"": """",
+  ""sign_length2"": """"
+}","{
+  ""selected_ids"": [
+    8339551109745812552
+  ],
+  ""sign_length4"": ""ARROW_DOWN"",
+  ""sign_length3"": ""PLATFORM"",
+  ""sign_length2"": ""ARROW_DOWN""
+}"
+"2023-08-27T21:23:00.022+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-105, -3, 67)","EDIT","{
+  ""selected_ids"": [],
+  ""sign_length3"": """"
+}","{
+  ""selected_ids"": [
+    8339551109745812552
+  ],
+  ""sign_length3"": ""PLATFORM""
+}"
+"2023-08-27T21:23:11.709+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-105, -3, 67)","EDIT","{
+  ""sign_length4"": """",
+  ""sign_length2"": """"
+}","{
+  ""sign_length4"": ""ARROW_UP"",
+  ""sign_length2"": ""ARROW_UP""
+}"
+"2023-08-27T21:23:27.723+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-102, -3, 67)","EDIT","{
+  ""sign_length3"": """"
+}","{
+  ""sign_length3"": ""CROSS""
+}"
+"2023-08-27T21:25:23.463+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-115, 4, 56)","EDIT","{
+  ""sign_length3"": """"
+}","{
+  ""sign_length3"": ""CROSS""
+}"
+"2023-08-27T21:26:52.996+08:00","karl","00000000-0000-3004-998f-501a96e1bd1e","mtr.block.BlockRailwaySign$TileEntityRailwaySign","","","(-107, 4, 59)","EDIT","{
+  ""sign_length3"": """"
+}","{
+  ""sign_length3"": ""CROSS""
+}"
